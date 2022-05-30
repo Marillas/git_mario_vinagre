@@ -5,6 +5,9 @@ import java.io.*;
 /////////////////////////////////////////////////////////////////
 // Aplicación para trabajar con matrices de objetos
 //
+
+/* Aqui hay un error ya que no existe cap10.banco entonces leer no esta creado*/
+
 public class Test
 {
   public static int menú()

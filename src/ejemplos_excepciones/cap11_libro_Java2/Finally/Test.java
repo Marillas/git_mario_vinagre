@@ -5,6 +5,9 @@ import java.io.*;
 // Aplicación para trabajar con la clase CBanco y la jerarquía
 // de clases derivadas de CCuenta
 //
+
+/* Aqui hay un error ya que no existe cap10.banco entonces leer no esta creado*/
+
 public class Test
 {
   public static void escribirDatos(CBanco banco, String fich) throws IOException
